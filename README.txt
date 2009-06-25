@@ -2,10 +2,10 @@
 Enable Tabkey
 ------------------------------------
 
-Version: 1.0
+Version: 1.1
 Author: Nils Werner (nils.werner@gmail.com)
 Build Date: 2009-05-26
-Requirements: Symphony 2.02
+Requirements: Symphony 2.0.3
 
 
 [INSTALLATION]
@@ -18,5 +18,12 @@ Requirements: Symphony 2.02
 
 [NOTES]
 
-- Currently incompatible with the "markItUp!"-extension, hopefully that will be resolved in Symphony 2.0.3 and its unified JS-libraries.
-  If its my fault and I'm also breaking other extensions, please let me know!
+- May still be incompatible with the "markItUp!"-extension.
+
+[CHANGELOG]
+
+1.1
+- Removed jQuery as it is provided by Symphony since Version 2.0.3.
+
+1.1
+- Initial release, including jQuery
