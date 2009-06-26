@@ -25,5 +25,5 @@ Requirements: Symphony 2.0.3
 1.1
 - Removed jQuery as it is provided by Symphony since Version 2.0.3.
 
-1.1
+1.0
 - Initial release, including jQuery
