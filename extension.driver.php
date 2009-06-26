@@ -26,7 +26,7 @@
 		public function initaliseAdminPageHead($context) {
 			$page = $context['parent']->Page;
 			
-			$page->addScriptToHead(URL . '/extensions/enable_tabkey/assets/enable_tabkey.js', 3066702);
+			$page->addScriptToHead(URL . '/extensions/enable_tabkey/assets/enable_tabkey.js', 3066704);
 			$page->addScriptToHead(URL . '/extensions/enable_tabkey/assets/tabby.js', 3066703);
 		}
 			
