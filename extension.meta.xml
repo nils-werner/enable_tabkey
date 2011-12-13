@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<extension id="enable_tabkey" status="unmaintained" xmlns="http://symphony-cms.com/schemas/extension/1.0">
+	<name>Enable Tabkey</name>
+	<description>Tabby-di-Tab-Tab</description>
+	<repo type="github">https://github.com/nils-werner/enable_tabkey</repo>
+	<url type="discuss">http://symphony-cms.com/discuss/thread/21958/</url>
+	<types>
+		<type>Interface</type>
+	</types>
+	<authors>
+		<author>
+			<name github="nils-werner" symphony="phoque">Nils Werner</name>
+			<website>http://www.phoque.de/</website>
+		</author>
+	</authors>
+	<releases>
+		<release version="1.1" date="2009-06-25" min="2.0.3">
+			Removed jQuery as it is provided by Symphony since Version 2.0.3.
+		</release>
+		<release version="1.0" date="2009-05-26" max="2.0.2">
+			Initial release, including jQuery
+		</release>
+	</releases>
+</extension>

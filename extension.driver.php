@@ -4,8 +4,8 @@
 	
 		public function about(){
 			return array('name' => 'Enable Tabkey',
-						 'version' => '1.0',
-						 'release-date' => '2009-05-26',
+						 'version' => '1.1',
+						 'release-date' => '2009-06-25',
 						 'author' => array('name' => 'Nils Werner',
 										   'website' => 'http://www.phoque.com/projekte/symphony',
 										   'email' => 'nils.werner@gmail.com')
